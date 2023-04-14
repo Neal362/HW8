@@ -1,7 +1,7 @@
 # Your name: Neal Patel
 # Your student id: 40611444
 # Your email: nealpn@umich.edu
-# List who you have worked with on this homework:
+# List who you have worked with on this homework: Sarandia Papanastasopoulos
 
 import matplotlib.pyplot as plt
 import os
