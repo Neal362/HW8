@@ -2,7 +2,7 @@
 # Your student id: 40611444
 # Your email: nealpn@umich.edu
 # List who you have worked with on this homework: Sarandia Papanastasopoulos
-
+# Final HW 
 import matplotlib.pyplot as plt
 import os
 import sqlite3
@@ -187,3 +187,4 @@ class TestHW8(unittest.TestCase):
 if __name__ == '__main__':
     main()
     unittest.main(verbosity=2)
+#Finished
